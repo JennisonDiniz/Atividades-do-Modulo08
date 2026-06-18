@@ -1,0 +1,3 @@
+# Ignore compiled binaries and editor settings
+*.exe
+.vscode/
